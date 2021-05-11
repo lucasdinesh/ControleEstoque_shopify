@@ -1,6 +1,6 @@
 # ControleEstoque_shopify
   Este é um projeto para controle de estoque de um E-commerce usando:
-  #Markdown
+  # Markdown
     - API da plataforma de E-commerce shopify
     - PYQT5 - GUI
     - SMTPlib - Para envio de email
